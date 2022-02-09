@@ -1,0 +1,12 @@
+1.A=int(input('enter value for A\t'))
+2.B=int(input('enter value for b\t'))
+3.if A<B:
+4.   print('B =',B,'is big')
+5.else:
+6.  print('A =',A,'is big ')
+7.
+8.output:
+9.
+10.enter value for A       6
+11.enter value for b       45
+12.B = 45 is big
